@@ -1,5 +1,5 @@
 <template>
-  <page header-title="List 列表">
+  <page header-title="下拉刷新上拉加载组件">
     <panel
       no-padding
       title="基本用法"
