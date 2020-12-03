@@ -14,14 +14,18 @@
 > 组件样式和类型复用了 `Taro UI` 已有的样式和类型定义，体验使用时，可参考 [文档](https://b2nil.github.io/taro-ui-vue3/docs/introduction)。
 
 > 所有组件均采用 `Vue 3.0` 的渲染函数编写，未使用 `Vue Template` 或 `jsx`。 -->
-
+<!-- 
 ### 安装
 
 ```bash
 yarn add taro-ui-vue3
-```
+``` -->
 
-基于 taroui+vue3+ts 实现下拉刷新和上拉加载组件
+基于 taroui+vue3.0+ts 实现下拉刷新和上拉加载组件
+
+Taro UI地址：https://github.com/NervJS/taro-ui
+
+Taro UI文档: https://b2nil.github.io/taro-ui-vue3/docs/introduction
 <!-- 
 ### 使用
 
