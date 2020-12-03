@@ -1,4 +1,4 @@
-# Taro UI Vue3
+<!-- # Taro UI Vue3
 
 [![NPM version](https://img.shields.io/npm/v/taro-ui-vue3.svg)](https://npmjs.org/package/taro-ui-vue3)
 [![NPM](https://img.shields.io/npm/l/taro-ui-vue3)](./LECENSE)
@@ -13,7 +13,7 @@
 
 > 组件样式和类型复用了 `Taro UI` 已有的样式和类型定义，体验使用时，可参考 [文档](https://b2nil.github.io/taro-ui-vue3/docs/introduction)。
 
-> 所有组件均采用 `Vue 3.0` 的渲染函数编写，未使用 `Vue Template` 或 `jsx`。
+> 所有组件均采用 `Vue 3.0` 的渲染函数编写，未使用 `Vue Template` 或 `jsx`。 -->
 
 ### 安装
 
@@ -21,6 +21,8 @@
 yarn add taro-ui-vue3
 ```
 
+基于 taroui+vue3+ts 实现下拉刷新和上拉加载组件
+<!-- 
 ### 使用
 
 - 按需引用组件和组件样式
@@ -121,4 +123,4 @@ yarn add taro-ui-vue3
 
 - [Taro UI](https://github.com/NervJS/taro-ui)
 - [taro-ui-vue](https://github.com/psaren/taro-ui-vue)
-- [vuetify](https://github.com/vuetifyjs/vuetify)
+- [vuetify](https://github.com/vuetifyjs/vuetify) -->
